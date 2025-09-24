@@ -28,7 +28,7 @@ This project applies the **CRISP-DM** process to build a transparent, production
 - 📊 **Slides (PPTX)** → `[ADD PPTX PATH HERE e.g., ./slides/Credit-Risk-Capstone.pptx]`
 - 🖥️ **Slides (PDF)** → `./slides/690-Capstone-Final-Presentation.pdf`
 - 📝 **Full Report (PDF)** → `[ADD REPORT PATH HERE e.g., ./docs/Credit-Risk-Capstone-Report.pdf]`
-- 🧪 **Code Revision (PDF)** → [code-revisioin.pdf](./code-revisioin.pdf)
+- 🧪 **Code Revision (PDF)** → [code-revisioin.pdf](./code-revision.pdf)
 
 
 
