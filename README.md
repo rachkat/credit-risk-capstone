@@ -24,11 +24,12 @@ This project applies the **CRISP-DM** process to build a transparent, production
 
 ## Quick Links
 
-- 🎥 **Video Walkthrough (MP4)** → `[ADD VIDEO LINK HERE]`
-- 📊 **Slides (PPTX)** → `[ADD PPTX PATH HERE e.g., ./slides/Credit-Risk-Capstone.pptx]`
-- 🖥️ **Slides (PDF)** → `./slides/690-Capstone-Final-Presentation.pdf`
-- 📝 **Full Report (PDF)** → `[ADD REPORT PATH HERE e.g., ./docs/Credit-Risk-Capstone-Report.pdf]`
-- 🧪 **Code Revision (PDF)** → [code-revisioin.pdf](./code-revision.pdf)
+- 🎥 **Video Walkthrough (MP4)** → `[ADD VIDEO LINK HERE]`  
+- 📊 **Slides (PPTX)** → `[ADD PPTX PATH HERE e.g., ./slides/Credit-Risk-Capstone.pptx]`  
+- 🖥️ **Slides (PDF)** → `./slides/690-Capstone-Final-Presentation.pdf`  
+- 📝 **Full Report (PDF)** → [crisp-dm-capstone.pdf](./crisp-dm-capstone.pdf)  
+- 🧪 **Code Revision (PDF)** → [code-revision.pdf](./code-revision.pdf)  
+
 
 
 
