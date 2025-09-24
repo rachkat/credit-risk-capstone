@@ -24,7 +24,7 @@ This project applies the **CRISP-DM** process to build a transparent, production
 
 ## Quick Links
 
-- 🎥 **Video Walkthrough (MP4)** → `[ADD VIDEO LINK HERE]`  
+- 🎥 **Video Walkthrough (MP4)** → `[COMING SOON]`  
    **Slides, presentation ready (PPTX)** → [presentation.pptx](./slides/presentation.pptx)  
 - **Slides, with speaker notes (PDF)** → [presentation-with-notes.pdf](./slides/presentation-with-notes.pdf)  
 - 📝 **Full Report (PDF)** → [crisp-dm-capstone.pdf](./crisp-dm-capstone.pdf)  
