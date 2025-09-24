@@ -230,7 +230,10 @@ Released under the **MIT License**. See [LICENSE](./LICENSE).
 
 ## Tags  
 
-`credit-risk` `crisp-dm` `logistic-regression` `roc-auc` `caret`  
-`fair-lending` `model-governance` `class-imbalance` `r` `data-science` `portfolio`  
+credit-risk, loan-default, finance, predictive-modeling, crisp-dm,  
+logistic-regression, naive-bayes, decision-trees, roc-auc, caret,  
+r, data-preparation, class-imbalance, fair-lending, interpretability,  
+model-governance, data-science, portfolio
+
 
 
