@@ -189,10 +189,6 @@ credit-risk-capstone/
 ---
 
 
-> Update the **Quick Links** section at the top with the exact paths you use here.  
-
----
-
 ## Technologies  
 
 - **R / RStudio**  
